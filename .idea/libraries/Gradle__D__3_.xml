@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: D (3)">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/c0e218f85614e0c0bfae8acd2a3254a3/transformed/jetified-open-web-sdk-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c0e218f85614e0c0bfae8acd2a3254a3/transformed/jetified-open-web-sdk-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c0e218f85614e0c0bfae8acd2a3254a3/transformed/jetified-open-web-sdk-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

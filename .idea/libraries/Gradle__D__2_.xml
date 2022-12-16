@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: D (2)">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/3a6a7647ee9adb3239338e82626be452/transformed/jetified-microatmlib-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3a6a7647ee9adb3239338e82626be452/transformed/jetified-microatmlib-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/3a6a7647ee9adb3239338e82626be452/transformed/jetified-microatmlib-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

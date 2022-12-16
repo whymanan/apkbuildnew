@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: D (1)">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ccf9e99f3bfdcfc66cbb8be68578c473/transformed/jetified-fingpaymicroatm-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ccf9e99f3bfdcfc66cbb8be68578c473/transformed/jetified-fingpaymicroatm-release/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ccf9e99f3bfdcfc66cbb8be68578c473/transformed/jetified-fingpaymicroatm-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ViteFinetech.iml" filepath="$PROJECT_DIR$/.idea/modules/ViteFinetech.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ViteFinetech.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ViteFinetech.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ViteFinetech.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ViteFinetech.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ViteFinetech.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ViteFinetech.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ViteFinetech.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ViteFinetech.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/microatmlib-release/ViteFinetech.microatmlib-release.iml" filepath="$PROJECT_DIR$/.idea/modules/microatmlib-release/ViteFinetech.microatmlib-release.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/paysprint_matm_v1.0/ViteFinetech.paysprint_matm_v1.0.iml" filepath="$PROJECT_DIR$/.idea/modules/paysprint_matm_v1.0/ViteFinetech.paysprint_matm_v1.0.iml" />
+    </modules>
+  </component>
+</project>
